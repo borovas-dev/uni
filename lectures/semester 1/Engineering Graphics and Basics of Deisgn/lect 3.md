@@ -25,3 +25,23 @@ The tolerance is needed for:
 - establishing production limits
 - defining whether the object fits within established limits
 
+## Concept of design features
+
+- geometrical design features (external structure)
+- material design features (internal structure)
+- dynamic design features (determines the state of the product induced during the material's assembly)
+
+### Detail design 
+
+Design is a "recipe" for the correct execution (or realization) of the product
+
+## Arrowheads/domension line termination
+
+Use full, thin arrowheads
+
+## Scales, values
+
+Values are in milimeters.
+
+Values don't change with scale!!
+
