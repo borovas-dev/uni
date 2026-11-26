@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/borowik/Documents/uni/labs/semester 1/Computer science and programming fundamentals",
+      "program": "/Users/borowik/Documents/uni/labs/semester 1/Computer science and programming fundamentals/build/Debug/outDebug"
+    }
+  ]
+}
